@@ -55,3 +55,4 @@
 #I chose to use Total_DKP because there style of point calculation is the most popular in fantasy football leagues 
 #I also created my own data set of teams records in the R-markdown file because if I took one from online it would keep updating and would not stay relivant to this data set whish I downloaded on November 29, 2021
 
+  
