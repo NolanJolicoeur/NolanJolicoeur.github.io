@@ -1,6 +1,6 @@
 # NolanJolicoeur.github.io
 
-# Understanding the data 
+## Understanding the data 
 
 - Game id- randomly generated id for each player in each game they played
 - player id- an id that is consistent with the player throughout the data set
